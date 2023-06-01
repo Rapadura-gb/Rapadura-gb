@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rapadura-gb
-- 👀 I’m interested in ... Machine learning and AI
-- 🌱 I’m currently learning ... programing logic, 
-Python,
-CS50
+- 👀 I’m interested in ... Back-End Development
+- 🌱 I’m currently learning ... Java
+
 
 - 💞️ I’m looking to collaborate on ... Anything really
 - 📫 How to reach me ... gabrielantoniazzi7@gmail.com
